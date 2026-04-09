@@ -20,7 +20,7 @@
 
 ## 🌟 Trailhead (Salesforce)
 
-Acompanhe minha evolução:
+📊 Evoluindo continuamente na plataforma Salesforce, conquistando badges e desenvolvendo habilidades práticas.
 
 [![Trailhead](https://img.shields.io/badge/Trailhead-Perfil-blue?logo=salesforce)](https://www.salesforce.com/trailblazer/alicedataflow)
 
