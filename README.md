@@ -9,12 +9,14 @@
 
 ## 🧠 Tecnologias em aprendizado
 
-- HTML  
-- CSS  
-- Python  
-- Ciência de Dados  
-- Salesforce  
-- GitHub  
+<p>
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5">
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3">
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python">
+  <img src="https://img.shields.io/badge/Data%20Science-purple">
+  <img src="https://img.shields.io/badge/Salesforce-blue?logo=salesforce">
+  <img src="https://img.shields.io/badge/GitHub-black?logo=github">
+</p>
 
 ---
 
