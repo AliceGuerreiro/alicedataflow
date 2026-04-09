@@ -31,3 +31,8 @@
 ## 📫 Contato
 
 📧 aliceguerreiro.81@gmail.com
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AliceGuerreiro&show_icons=true&theme=radical)
+
+
